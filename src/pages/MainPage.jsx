@@ -16,7 +16,7 @@ export default function MainPage() {
                     <img className='my-0.5 mx-2' src="assets/share_icon.png" style={{ width: '16px', height: '16px' }} />
                 </div>
             </nav>
-            <div className='flex flex-row justify-center h-screen'>
+            <div className='flex flex-row justify-center'>
                 <div className='flex flex-col w-2/5 gap-4 '>
                     <p className='w-110'>Hi, Im Saif. I'm a 20-year-old IT student.
 I enjoys <b>web design, mobile app developing, public speaking, and learning new things.</b> I have experience in organizing events and love to share my knowledge in management. Always growing, always improving.</p>
@@ -29,7 +29,7 @@ I enjoys <b>web design, mobile app developing, public speaking, and learning new
                 </div>
                 <img src="assets/images/saif34.png" alt="saif" className='h-150'/>
             </div>
-            <div className='flex flex-row justify-center gap-12 mt-12' style={{ marginTop: '86px' }}>
+            <div className='flex flex-row justify-center gap-12 mt-37'>
                     <img src="assets/logos/c.png" alt="c" className='h-8'/>
                     <img src="assets/logos/php.png" alt="php" className='h-6 mt-1'/>
                     <img src="assets/logos/javascript.png" alt="javascript" className='h-8'/>
