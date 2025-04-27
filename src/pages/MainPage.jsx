@@ -13,7 +13,7 @@ export default function MainPage() {
                 <h3 className='' style={{ fontWeight: 'normal', fontSize: 20}}>Saif Musyanto</h3>
                 <div className='flex gap-1'>
                     <a style={{ color: 'white', fontWeight: 'bold' }}>Let's Talk</a>
-                    <img className='my-0.5 mx-2' src="src/assets/share_icon.png" style={{ width: '16px', height: '16px' }} />
+                    <img className='my-0.5 mx-2' src="assets/share_icon.png" style={{ width: '16px', height: '16px' }} />
                 </div>
             </nav>
             <div className='flex flex-row justify-center h-screen'>
@@ -27,15 +27,15 @@ I enjoys <b>web design, mobile app developing, public speaking, and learning new
                         <p className='w-full'>UI Designer</p>
                     </div>
                 </div>
-                <img src="src/assets/images/saif34.png" alt="saif" className='h-150'/>
+                <img src="assets/images/saif34.png" alt="saif" className='h-150'/>
             </div>
             <div className='flex flex-row justify-center gap-12 mt-12' style={{ marginTop: '86px' }}>
-                    <img src="src/assets/logos/c.png" alt="c" className='h-8'/>
-                    <img src="src/assets/logos/php.png" alt="php" className='h-6 mt-1'/>
-                    <img src="src/assets/logos/javascript.png" alt="javascript" className='h-8'/>
-                    <img src="src/assets/logos/react.png" alt="react" className='h-8'/>
-                    <img src="src/assets/logos/laravel.png" alt="laravel" className='h-8'/>
-                    <img src="src/assets/logos/flutter.png" alt="flutter" className='h-8'/>
+                    <img src="assets/logos/c.png" alt="c" className='h-8'/>
+                    <img src="assets/logos/php.png" alt="php" className='h-6 mt-1'/>
+                    <img src="assets/logos/javascript.png" alt="javascript" className='h-8'/>
+                    <img src="assets/logos/react.png" alt="react" className='h-8'/>
+                    <img src="assets/logos/laravel.png" alt="laravel" className='h-8'/>
+                    <img src="assets/logos/flutter.png" alt="flutter" className='h-8'/>
             </div>
             <div className='my-37 flex flex-row justify-center'>
                 <div className='flex flex-col w-[900px] gap-4 ml-12'>
@@ -74,19 +74,19 @@ I enjoys <b>web design, mobile app developing, public speaking, and learning new
                     <div className='w-full flex flex-row gap-14 flex-wrap mt-12 gap-y-12 justify-center'>
                         <div className='border-b-1 border-s-white flex flex-row justify-between gap-2 w-80'>
                             <h4>Master of Ceremony Dynamic 2024...</h4>
-                            <img src="src/assets/share_icon.png" alt="link" style={{ height:16 }}/>
+                            <img src="assets/share_icon.png" alt="link" style={{ height:16 }}/>
                         </div>
                         <div className='border-b-1 border-s-white flex flex-row justify-between gap-2 w-80'>
                             <h4>Master of Ceremony Dynamic 2024...</h4>
-                            <img src="src/assets/share_icon.png" alt="link" style={{ height:16 }}/>
+                            <img src="assets/share_icon.png" alt="link" style={{ height:16 }}/>
                         </div>
                         <div className='border-b-1 border-s-white flex flex-row justify-between gap-2 w-80'>
                             <h4>Master of Ceremony Dynamic 2024...</h4>
-                            <img src="src/assets/share_icon.png" alt="link" style={{ height:16 }}/>
+                            <img src="assets/share_icon.png" alt="link" style={{ height:16 }}/>
                         </div>
                         <div className='border-b-1 border-s-white flex flex-row justify-between gap-2 w-80'>
                             <h4>Master of Ceremony Dynamic 2024...</h4>
-                            <img src="src/assets/share_icon.png" alt="link" style={{ height:16 }}/>
+                            <img src="assets/share_icon.png" alt="link" style={{ height:16 }}/>
                         </div>
                     </div>
                 </div>
@@ -96,11 +96,11 @@ I enjoys <b>web design, mobile app developing, public speaking, and learning new
                     <div className='flex flex-col w-58 gap-1'>
                         <h3 className='text-5xl'>Let's Work Together</h3>
                         <div className="flex flex-row gap-1 mt-4">
-                            <img src="src/assets/logos/instagram.png" alt="instagram" style={{ height: 24, width: 24 }}/>
+                            <img src="assets/logos/instagram.png" alt="instagram" style={{ height: 24, width: 24 }}/>
                             <h4 className='mt-0.5 font-medium text-sm'>@saifmusyanto</h4>
                         </div>
                         <div className="flex flex-row gap-1">
-                            <img src="src/assets/logos/linkedin.png" alt="instagram" style={{ height: 24, width: 24 }}/>
+                            <img src="assets/logos/linkedin.png" alt="instagram" style={{ height: 24, width: 24 }}/>
                             <h4 className='mt-0.5 font-medium text-sm'>@saifmusyanto</h4>
                         </div>
                         <div className="flex flex-row gap-1">
