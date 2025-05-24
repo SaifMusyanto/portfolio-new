@@ -153,12 +153,12 @@ export default function MainPage() {
 
             {/* Tech Stack Logos */}
             <div className='flex flex-wrap justify-center items-center gap-8 mt-12 px-4'>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/c.png" alt="" /></div>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/flutter.png" alt="" /></div>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/react.png" alt="" /></div>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/javascript.png" alt="" /></div>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/laravel.png" alt="" /></div>
-                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="public/assets/logos/php.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/c.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/flutter.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/react.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/javascript.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/laravel.png" alt="" /></div>
+                <div className="w-16 h-16 bg-gray-600 rounded-full flex items-center justify-center text-xs"><img src="assets/logos/php.png" alt="" /></div>
             </div>
 
             {/* Projects Section */}
@@ -201,19 +201,19 @@ export default function MainPage() {
                         <h3 className='text-3xl md:text-5xl font-normal'>Let's Work Together</h3>
                         <div className="flex flex-col gap-3 mt-6">
                             <div className="flex flex-row items-center gap-3">
-                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="public/assets/logos/instagram.png" alt="IG" /></div>
+                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="assets/logos/instagram.png" alt="IG" /></div>
                                 <span className='text-sm font-medium'><a href="https://www.instagram.com/saifmusyanto">@saifmusyanto</a></span>
                             </div>
                             <div className="flex flex-row items-center gap-3">
-                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="public/assets/logos/linkedin.png" alt="IN" /></div>
+                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="assets/logos/linkedin.png" alt="IN" /></div>
                                 <span className='text-sm font-medium'><a href="https://www.linkedin.com/in/saifullah-ahmad-musyanto-958b90290/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bedx%2BbDGFSf25DsX%2B27lM7g%3D%3D">Saifullah Ahmad Musyanto</a></span>
                             </div>
                             <div className="flex flex-row items-center gap-3">
-                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="public/assets/logos/phone.png" alt="Phone" /></div>
+                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="assets/logos/phone.png" alt="Phone" /></div>
                                 <span className='text-sm font-medium'>+6281556599192</span>
                             </div>
                             <div className="flex flex-row items-center gap-3">
-                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="public/assets/logos/github.png" alt="IN" /></div>
+                                <div className="w-6 h-6  flex items-center justify-center text-xs"><img src="assets/logos/github.png" alt="IN" /></div>
                                 <span className='text-sm font-medium'><a href="https://github.com/SaifMusyanto">SaifMusyanto</a></span>
                             </div>
                         </div>
